@@ -1,0 +1,3 @@
+﻿  gugudan.cpp
+C:\Users\Q\source\repos\gugudan\gugudan\gugudan.cpp(7,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  gugudan.vcxproj -> C:\Users\Q\source\repos\gugudan\x64\Debug\gugudan.exe
